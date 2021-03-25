@@ -1,5 +1,3 @@
-# employee-directory
-
 # Employee Directory
 
 ## Description
